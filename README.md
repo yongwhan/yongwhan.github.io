@@ -1,3 +1,3 @@
 # yongwhan.github.io
 
-Yongwhan's personal website. It contains my resume, teaching experience, research experience, and research projects/invited talks.
+Yongwhan Lim's personal website containing his resume, teaching experience, publications, and research projects/invited talks.
