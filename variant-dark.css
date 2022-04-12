@@ -56,12 +56,12 @@ li {margin:0; padding:0 0 0 5px;}
 #content img {margin:5px 0;}
 #feature {margin:0 0 20px 0;}
 .post {margin:0 0 20px 0; padding:15px 20px 0 20px; width:680px; line-height:1.7em; border:1px dotted #2a2a2a;}
-.postintro {width:70px; padding:4px; background-color:#000; text-align:center; color:#777; font-size:1.1em; float:right; border:1px dotted #2a2a2a; margin:0 15px 10px 15px;}
+.postintro {width:70px; padding:4px; background-color:#000; text-align:center; color:#b9d9eb; font-size:1.1em; float:right; border:1px dotted #2a2a2a; margin:0 15px 10px 15px;}
 .postmeta {text-align:right; color:#666; padding:10px 0 0; border-top: 1px dotted #2a2a2a; font-size:0.9em;}
 
 /* Footer */
-#footer{font-size:0.9em;line-height:1.4em; color:#777; font-weight:400; margin:20px 0;}
-#footer a {color:#777; font-weight:400; text-decoration:none; border-bottom: 1px dotted #888;}
+#footer{font-size:0.9em;line-height:1.4em; color:#b9d9eb; font-weight:400; margin:20px 0;}
+#footer a {color:#b9d9eb; font-weight:400; text-decoration:none; border-bottom: 1px dotted #888;}
 
 /* Various classes */
 .centered {text-align:center;}
