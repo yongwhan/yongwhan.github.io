@@ -10,11 +10,11 @@ body {padding:0; margin:0; font:76% Verdana,Tahoma,sans-serif; background-color:
 #wrap {width:900px; text-align:left; margin:0 auto; padding:20px 0 0 0;}
 
 /* Top menu */
-#topmenu {text-align:center;margin:0; width:100%; background-color:#222;}
+#topmenu {text-align:center;margin:0; width:100%; background-color:#b9d9eb;}
 #topmenu p {width:750px; text-align:left; font-size:1.2em; line-height:2.5em; color:#000; margin:0 auto;}
 #topmenu a {padding:12px 8px 10px 8px; font-weight:400; margin:0 10px 0 0; color:#000;border:0;}
 #topmenu a:hover {color:#fff; text-decoration:none;}
-#topmenu a.active {color:#f7c777; background:#2a2a2a;}
+#topmenu a.active {color:#f7c777; background:#b9d9eb;}
 #topmenu a.active:hover {color:#fff; padding:12px 8px 10px 8px;}
 
 /* Header */
