@@ -6,7 +6,7 @@ For more information, see http://andreasviklund.com/templates/variant-dark/
 .tab { margin-left: 25px; }
 
 /* Main containers */
-body {padding:0; margin:0; font:76% Verdana,Tahoma,sans-serif; background-color:#080808; color:#ddd; text-align:center; line-height:1.5em;}
+body {padding:0; margin:0; font:76% Verdana,Tahoma,sans-serif; background-color:#b9d9eb; color:#ddd; text-align:center; line-height:1.5em;}
 #wrap {width:900px; text-align:left; margin:0 auto; padding:20px 0 0 0;}
 
 /* Top menu */
@@ -29,7 +29,7 @@ h1 a:hover {color:#fff; text-decoration:none;}
 a {text-decoration:none; font-weight:400; color:#f7c777;border-bottom:1px dotted #2a2a2a;}
 a:hover {text-decoration:none;border-bottom:1px dotted #f7c777;}
 a img {border:0;}
-h2 {margin:0 0 18px 0; padding:0 0 7px; color:#77cef7; font-size:1.6em; font-weight:400; border-bottom:1px dotted #2a2a2a;}
+h2 {margin:0 0 18px 0; padding:0 0 7px; color:#080808; font-size:1.6em; font-weight:400; border-bottom:1px dotted #2a2a2a;}
 h2 a {font-weight:400;}
 h3 {font-size:1.6em; font-weight:400; margin:0 0 10px 0; padding:2px 0; color:#77cef7; font-size:1.2em; font-weight:400; border-bottom:1px dotted #2a2a2a;}
 p {margin:0 0 18px 0;}
