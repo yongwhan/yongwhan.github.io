@@ -18,7 +18,7 @@ body {padding:0; margin:0; font:76% Verdana,Tahoma,sans-serif; background-color:
 #topmenu a.active:hover {color:#fff; padding:12px 8px 10px 8px;}
 
 /* Header */
-#header {width:100%; margin:0;background-color:#111;border-top:1px dotted #2a2a2a;border-bottom:1px dotted #2a2a2a;}
+#header {width:100%; margin:0;background-color:#b9d9eb;border-top:1px dotted #2a2a2a;border-bottom:1px dotted #2a2a2a;}
 #title {width:750px; padding:30px 0; margin:0 auto;text-align:center;}
 h1 {margin:0 auto 5px auto; padding:0; font-size:2.2em; font-weight:400;color:#eee; letter-spacing:-1px; line-height:1.2em;}
 h1 a {color:#eee; font-weight:400; text-decoration:none; border:0;}
