@@ -1,0 +1,15 @@
+TERSE README
+author  yongwhan@yongwhan.io
+date    01/15/2023
+
+go to code directory and run:
+* g++ run.cpp && ./a.out
+
+after you quit, two files will be generated:
+* wrong_freq_table_desc.txt
+* wrong_list.txt
+
+if you want to retest using wrong_list.txt, do:
+* cp wrong_list.txt page_x
+* mv page_x ../parsed
+* re-run and type 'x' when prompted which page to choose.
